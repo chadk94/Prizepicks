@@ -1,0 +1,583 @@
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Shots,SoT,Yellows,Reds,Touches,Press,Tackles,Interceptions,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,Carries,Prog,Succ,Att,Report,Name
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,CB,90,0,0,0,0,1,0,0,0,107,13,2,3,1,0.1,0.1,0.0,1,0,82,97,84.5,6,78,8,0,1,Match Report,Alan Franco
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,CB,90,0,0,0,0,1,0,0,0,72,5,0,3,1,0.0,0.0,0.0,2,1,51,65,78.5,2,48,2,1,1,Match Report,Alan Franco
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,CB,45,0,0,0,0,0,0,0,0,23,14,2,2,1,0.0,0.0,0.0,0,0,15,16,93.8,1,14,0,0,0,Match Report,Alan Franco
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,CB,90,0,0,0,0,1,0,0,0,60,5,0,1,1,0.0,0.0,0.0,0,0,48,56,85.7,3,40,2,0,1,Match Report,Alan Franco
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,CB,59,0,0,0,0,0,0,0,0,57,9,1,4,2,0.0,0.0,0.0,0,0,44,50,88.0,2,42,1,0,0,Match Report,Alan Franco
+,,,,,,,,,,Alan Franco
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Alan Franco
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,CB,90,0,0,0,0,0,0,1,0,76,13,5,7,2,0.0,0.0,0.0,1,0,62,64,96.9,6,51,3,1,2,Match Report,Alan Franco
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,CB,90,0,0,0,0,0,0,0,0,112,8,2,4,2,0.0,0.0,0.0,0,0,98,102,96.1,1,93,2,0,0,Match Report,Alan Franco
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,CB,90,0,0,0,0,1,0,0,0,75,11,3,1,0,0.1,0.1,0.0,2,0,66,71,93.0,7,56,6,0,0,Match Report,Alan Franco
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,CB,90,0,0,0,0,1,1,0,0,82,11,2,1,3,0.0,0.0,0.0,0,0,61,72,84.7,6,52,1,0,0,Match Report,Alan Franco
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,CB,90,0,1,0,0,1,1,1,0,82,11,1,0,2,0.0,0.0,0.3,3,1,70,76,92.1,9,57,9,0,0,Match Report,Alan Franco
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,CB,90,0,0,0,0,1,0,0,0,88,9,2,5,3,0.0,0.0,0.0,0,0,70,77,90.9,4,60,7,1,1,Match Report,Alan Franco
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,CB,90,0,0,0,0,0,0,0,0,76,4,2,4,4,0.0,0.0,0.0,0,0,53,64,82.8,6,42,1,2,2,Match Report,Alan Franco
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,CB,90,0,0,0,0,0,0,0,0,66,10,1,2,7,0.0,0.0,0.0,0,0,50,56,89.3,2,38,0,0,0,Match Report,Alan Franco
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,CB,90,0,0,0,0,0,0,0,0,75,8,3,1,3,0.0,0.0,0.0,1,1,54,61,88.5,4,47,0,1,1,Match Report,Alan Franco
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,CB,90,0,0,0,0,1,0,0,0,93,5,2,3,3,0.1,0.1,0.1,4,0,71,79,89.9,6,67,7,0,1,Match Report,Alan Franco
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,CB,90,0,0,0,0,1,1,0,0,89,2,1,0,1,0.1,0.1,0.0,1,0,75,77,97.4,3,55,2,0,0,Match Report,Alan Franco
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,CB,90,0,0,0,0,0,0,0,0,77,4,1,1,2,0.0,0.0,0.0,2,0,65,75,86.7,4,61,9,2,2,Match Report,Alan Franco
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,CM,16,0,1,0,0,1,1,0,0,9,5,0,0,0,0.0,0.0,0.4,2,1,6,7,85.7,2,7,3,0,0,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,N,RW,27,0,0,0,0,2,1,0,0,28,2,0,0,0,0.1,0.1,0.1,1,0,14,22,63.6,5,21,6,0,0,Match Report,Marcelino Moreno
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,N,AM,35,0,1,0,0,0,0,0,0,25,2,0,1,0,0.0,0.0,0.1,2,1,15,18,83.3,4,18,2,0,3,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,LW,63,0,0,0,0,0,0,0,0,32,9,0,0,0,0.0,0.0,0.0,0,0,17,25,68.0,3,29,5,2,2,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,"AM,RW",90,1,0,0,0,2,1,0,0,57,15,0,1,1,0.0,0.0,0.0,4,0,33,39,84.6,3,50,12,1,2,Match Report,Marcelino Moreno
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,"RW,AM,DM",90,0,0,0,0,4,3,0,0,54,22,1,3,0,0.2,0.2,0.2,5,0,27,33,81.8,6,52,14,3,6,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,AM,90,0,0,0,1,0,0,0,0,67,10,1,4,0,0.8,0.0,0.0,5,0,38,48,79.2,8,55,9,3,6,Match Report,Marcelino Moreno
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,AM,90,0,0,0,0,4,0,0,0,67,16,0,0,0,0.2,0.2,0.3,7,0,42,54,77.8,11,56,11,2,3,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,"LW,CM",90,1,0,0,0,2,2,1,0,69,8,3,0,1,0.1,0.1,0.2,3,0,44,51,86.3,9,54,5,1,6,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,LW,66,0,0,0,0,2,0,0,0,30,6,0,0,0,0.1,0.1,0.0,5,1,23,25,92.0,5,26,5,1,1,Match Report,Marcelino Moreno
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,"AM,RW",90,0,0,0,0,5,0,0,0,70,12,1,0,0,0.2,0.2,0.1,9,2,41,55,74.5,10,69,15,4,5,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,"LW,AM",89,0,1,0,0,2,1,0,0,58,10,1,0,3,0.1,0.1,0.7,7,1,35,43,81.4,3,44,8,0,1,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,"CM,LW",90,0,0,0,0,1,1,1,0,69,19,1,1,1,0.0,0.0,0.4,5,0,43,56,76.8,3,62,11,1,3,Match Report,Marcelino Moreno
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,"AM,RW",90,0,0,0,0,2,1,0,0,73,18,3,3,1,0.1,0.1,0.4,5,0,41,51,80.4,6,61,7,3,5,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,"AM,LW",90,0,0,0,0,3,0,1,0,54,6,1,1,1,0.2,0.2,0.1,5,0,28,42,66.7,1,45,9,1,2,Match Report,Marcelino Moreno
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,N,CM,1,0,0,0,0,0,0,0,0,4,3,0,0,2,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Match Report,Marcelino Moreno
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,"LW,AM,CM",90,0,0,0,0,2,1,0,0,55,17,2,0,3,0.2,0.2,0.1,2,0,29,39,74.4,2,47,9,3,3,Match Report,Marcelino Moreno
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,"AM,LW",45,0,0,0,0,1,0,0,0,41,3,0,0,1,0.0,0.0,0.2,3,0,21,33,63.6,5,36,9,5,7,Match Report,Marcelino Moreno
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,AM,90,0,0,0,0,4,1,1,0,72,17,8,3,0,0.4,0.4,0.0,2,0,40,50,80.0,2,56,13,1,3,Match Report,Marcelino Moreno
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,"LW,LM",90,0,0,0,0,4,0,0,0,87,15,4,1,0,0.2,0.2,0.2,6,0,44,64,68.8,5,72,18,8,10,Match Report,Marcelino Moreno
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,CM,90,0,0,0,0,0,0,0,0,56,22,3,1,0,0.0,0.0,0.0,2,0,39,46,84.8,4,37,3,0,2,Match Report,Matheus Rossetto
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,CM,90,0,0,0,0,3,0,0,0,73,13,2,3,1,0.2,0.2,0.0,6,0,52,60,86.7,6,56,7,3,3,Match Report,Matheus Rossetto
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,"CM,DM",90,0,0,0,0,3,2,0,0,42,11,1,2,1,0.1,0.1,0.0,1,0,25,30,83.3,4,32,4,2,2,Match Report,Matheus Rossetto
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,"DM,CM",78,0,0,0,0,1,0,0,0,94,15,0,2,3,0.0,0.0,0.0,0,0,80,87,92.0,8,83,8,0,0,Match Report,Matheus Rossetto
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,DM,45,0,0,0,0,1,1,0,0,31,8,1,0,2,0.1,0.1,0.0,2,0,20,26,76.9,0,20,4,1,1,Match Report,Matheus Rossetto
+,,,,,,,,,,Matheus Rossetto
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,DM,90,0,0,0,0,0,0,0,0,99,18,4,3,1,0.0,0.0,0.0,1,0,83,91,91.2,4,79,11,1,1,Match Report,Matheus Rossetto
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,DM,90,0,0,0,0,1,1,0,0,110,12,2,2,1,0.0,0.0,0.0,2,1,95,99,96.0,5,94,2,2,2,Match Report,Matheus Rossetto
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y*,DM,84,0,0,0,0,0,0,0,0,81,20,3,0,3,0.0,0.0,0.1,3,1,70,73,95.9,4,63,6,0,0,Match Report,Matheus Rossetto
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y*,DM,84,0,0,0,0,1,0,0,0,65,16,1,0,1,0.0,0.0,0.0,2,0,52,57,91.2,6,53,5,1,1,Match Report,Matheus Rossetto
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y*,DM,45,0,0,0,0,1,1,0,0,53,5,0,0,1,0.0,0.0,0.0,3,0,44,48,91.7,5,44,6,0,1,Match Report,Matheus Rossetto
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,N,DM,6,0,0,0,0,0,0,0,0,13,5,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,2,13,1,0,0,Match Report,Matheus Rossetto
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,N,DM,27,0,0,0,0,0,0,0,0,31,4,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,1,26,0,0,0,Match Report,Matheus Rossetto
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y*,DM,90,0,0,0,0,0,0,0,0,77,16,3,4,2,0.0,0.0,0.0,1,0,62,69,89.9,5,58,7,1,1,Match Report,Matheus Rossetto
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,DM,90,0,0,0,0,0,0,0,0,57,26,2,0,2,0.0,0.0,0.0,0,0,46,50,92.0,4,44,6,1,1,Match Report,Matheus Rossetto
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,DM,81,0,0,0,0,0,0,0,0,97,19,3,2,1,0.0,0.0,0.0,1,0,82,87,94.3,7,76,5,2,3,Match Report,Matheus Rossetto
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y*,"DM,AM",90,0,1,0,0,2,0,0,0,79,10,1,0,1,0.0,0.0,0.1,3,1,63,71,88.7,7,61,7,0,1,Match Report,Matheus Rossetto
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y*,DM,90,0,0,0,0,0,0,0,0,85,12,1,0,5,0.0,0.0,0.1,3,0,68,72,94.4,5,71,5,1,1,Match Report,Matheus Rossetto
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,CB,90,0,0,0,0,1,0,0,0,67,7,3,5,0,0.0,0.0,0.0,0,0,47,55,85.5,1,42,6,1,1,Match Report,George Campbell
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,DM,63,0,0,0,0,1,1,0,0,40,5,1,1,2,0.0,0.0,0.2,2,0,28,32,87.5,1,28,2,0,1,Match Report,George Campbell
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,CB,90,0,0,0,0,0,0,1,0,72,10,0,3,2,0.0,0.0,0.2,2,1,55,61,90.2,3,54,0,0,1,Match Report,George Campbell
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,CB,45,0,0,0,0,0,0,0,0,32,9,1,3,1,0.0,0.0,0.0,0,0,24,30,80.0,1,28,4,0,0,Match Report,George Campbell
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,CB,90,0,0,0,0,0,0,1,0,66,10,1,5,4,0.0,0.0,0.0,0,0,39,50,78.0,1,41,4,0,0,Match Report,George Campbell
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,CB,90,0,0,0,0,0,0,0,0,60,16,0,3,3,0.0,0.0,0.0,2,0,47,53,88.7,6,44,2,0,0,Match Report,George Campbell
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,CB,90,0,0,0,0,0,0,1,0,67,6,2,2,5,0.0,0.0,0.0,2,0,43,52,82.7,5,45,2,1,1,Match Report,George Campbell
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,CB,90,0,0,0,0,1,0,0,0,66,10,1,3,1,0.1,0.1,0.0,0,0,48,60,80.0,4,37,0,0,0,Match Report,George Campbell
+,,,,,,,,,,George Campbell
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,"On matchday squad, but did not play",Match Report,George Campbell
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,CB,17,0,0,0,0,0,0,0,0,12,2,0,0,1,0.0,0.0,0.0,0,0,8,9,88.9,0,5,0,0,0,Match Report,George Campbell
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,N,CB,45,0,0,0,0,1,0,0,0,33,3,1,0,0,0.1,0.1,0.0,1,0,26,31,83.9,3,21,0,0,0,Match Report,George Campbell
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,CB,90,0,0,0,0,1,1,0,0,77,11,5,7,2,0.1,0.1,0.1,2,0,60,62,96.8,6,51,6,0,0,Match Report,George Campbell
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,CB,90,0,0,0,0,1,0,0,0,68,8,2,2,2,0.0,0.0,0.1,1,0,46,55,83.6,0,37,2,0,1,Match Report,George Campbell
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,CB,90,0,0,0,0,0,0,0,0,92,4,2,4,2,0.0,0.0,0.0,1,0,61,77,79.2,2,58,2,3,4,Match Report,George Campbell
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,CB,90,0,0,0,0,0,0,0,0,61,8,2,2,2,0.0,0.0,0.0,0,0,43,44,97.7,3,37,1,0,0,Match Report,George Campbell
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,CB,90,0,0,0,0,2,1,0,0,98,6,0,1,4,0.1,0.1,0.1,4,0,79,85,92.9,7,69,8,0,0,Match Report,George Campbell
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,CB,90,0,0,0,0,0,0,0,0,67,6,0,1,1,0.0,0.0,0.0,1,0,49,56,87.5,4,40,3,0,0,Match Report,George Campbell
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,CB,90,0,0,0,0,1,0,0,0,69,5,0,1,3,0.1,0.1,0.0,0,0,57,60,95.0,3,53,11,1,1,Match Report,George Campbell
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,RW,27,0,0,0,0,1,1,0,0,14,7,1,0,0,0.2,0.2,0.5,1,0,11,13,84.6,0,9,1,0,0,Match Report,Brooks Lennon
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,RW,63,0,0,0,0,0,0,0,0,36,2,0,0,0,0.0,0.0,0.3,2,0,20,32,62.5,0,16,0,0,0,Match Report,Brooks Lennon
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,"RW,RB",90,0,0,0,0,0,0,0,0,75,10,2,0,1,0.0,0.0,0.4,7,1,47,66,71.2,0,40,3,1,1,Match Report,Brooks Lennon
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,"RW,WB,RB",90,1,0,0,0,1,1,0,0,62,14,2,0,0,0.0,0.0,0.1,2,0,43,54,79.6,2,40,3,1,2,Match Report,Brooks Lennon
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,"RB,WB",90,0,1,0,0,1,0,0,0,77,8,2,2,2,0.0,0.0,0.1,5,1,63,71,88.7,2,48,6,1,1,Match Report,Brooks Lennon
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,"WB,RB",90,0,0,0,0,1,0,0,0,49,13,0,3,1,0.0,0.0,0.1,2,0,33,43,76.7,1,28,1,0,1,Match Report,Brooks Lennon
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,RB,90,0,0,0,0,4,1,0,0,63,8,2,0,1,0.1,0.1,0.6,6,0,39,52,75.0,1,38,6,0,1,Match Report,Brooks Lennon
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,RB,90,0,0,0,0,2,0,1,0,60,16,2,3,1,0.5,0.5,0.4,4,0,37,49,75.5,1,34,4,0,1,Match Report,Brooks Lennon
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,RB,90,0,0,0,0,1,1,0,0,78,25,3,1,1,0.1,0.1,0.1,4,0,55,69,79.7,5,40,4,0,0,Match Report,Brooks Lennon
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,RB,90,1,0,0,0,2,1,0,0,79,14,4,1,2,0.2,0.2,0.3,3,0,56,68,82.4,5,45,3,0,0,Match Report,Brooks Lennon
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,RB,90,0,0,0,0,0,0,0,0,81,16,0,1,4,0.0,0.0,0.1,7,0,60,75,80.0,6,53,2,0,0,Match Report,Brooks Lennon
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,"RB,WB",90,0,1,0,0,0,0,0,0,49,13,1,3,1,0.0,0.0,0.9,2,1,30,36,83.3,1,24,0,0,0,Match Report,Brooks Lennon
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,"WB,RB,LB",90,0,0,0,0,1,1,0,0,72,16,1,0,2,0.2,0.2,0.2,6,0,51,64,79.7,1,43,9,0,1,Match Report,Brooks Lennon
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,RB,90,0,0,0,0,1,1,0,0,73,5,1,2,1,0.2,0.2,0.1,2,0,58,66,87.9,6,49,7,0,0,Match Report,Brooks Lennon
+Sun,Liga MX,Clausura 2022 Regular Season,Home,W 3–0,Guadalajara,Mazatlán,N,,5,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Ronaldo Cisneros
+Sun,Liga MX,Clausura 2022 Regular Season,Away,L 1–2,Guadalajara,Pachuca,N,"On matchday squad, but did not play",Match Report,Ronaldo Cisneros
+Sat,Liga MX,Clausura 2022 Regular Season,Home,D 1–1,Guadalajara,Querétaro,N,"On matchday squad, but did not play",Match Report,Ronaldo Cisneros
+Wed,Liga MX,Clausura 2022 Regular Season,Away,W 3–1,Guadalajara,FC Juárez,N,,1,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Ronaldo Cisneros
+Sat,Liga MX,Clausura 2022 Regular Season,Home,L 1–3,Guadalajara,UANL,N,"On matchday squad, but did not play",Match Report,Ronaldo Cisneros
+Sat,Liga MX,Clausura 2022 Regular Season,Away,L 1–2,Guadalajara,León,N,"On matchday squad, but did not play",Match Report,Ronaldo Cisneros
+,,,,,,,,,,Ronaldo Cisneros
+Wed,Liga MX,Clausura 2022 Regular Season,Away,D 2–2,Guadalajara,Atlético,N,"On matchday squad, but did not play",Match Report,Ronaldo Cisneros
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,FW,26,0,0,0,0,0,0,0,0,8,5,0,0,1,0.0,0.0,0.0,2,0,2,3,66.7,0,7,0,0,0,Match Report,Ronaldo Cisneros
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,FW,79,0,0,0,0,2,0,0,0,14,10,0,0,0,0.7,0.7,0.0,1,0,4,6,66.7,0,10,1,0,0,Match Report,Ronaldo Cisneros
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,FW,90,1,0,0,0,5,4,0,0,31,14,0,1,1,0.8,0.8,0.1,3,0,12,18,66.7,0,14,1,0,0,Match Report,Ronaldo Cisneros
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,FW,90,0,0,0,0,3,0,0,0,21,6,0,0,1,0.2,0.2,0.0,3,0,12,15,80.0,0,12,2,0,1,Match Report,Ronaldo Cisneros
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,FW,90,3,0,0,0,4,4,0,0,18,4,0,2,0,1.5,1.5,0.0,1,0,9,12,75.0,0,11,2,0,0,Match Report,Ronaldo Cisneros
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,FW,70,0,0,0,0,1,0,0,0,22,10,0,0,0,0.0,0.0,0.0,0,0,10,16,62.5,0,15,2,0,3,Match Report,Ronaldo Cisneros
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,FW,90,0,0,0,0,3,0,0,0,20,9,0,0,0,0.1,0.1,0.0,2,0,11,13,84.6,0,12,1,0,0,Match Report,Ronaldo Cisneros
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,"FW,WB",67,0,0,0,0,3,1,0,0,26,10,1,1,0,0.1,0.1,0.0,1,0,15,19,78.9,0,17,2,0,1,Match Report,Ronaldo Cisneros
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,LW,74,0,0,0,0,1,0,0,0,31,9,1,0,1,0.1,0.1,0.0,1,0,23,26,88.5,3,22,2,2,3,Match Report,Ronaldo Cisneros
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,"LW,RW",90,0,0,0,0,1,0,0,0,27,8,1,1,1,0.1,0.1,0.0,1,0,10,15,66.7,2,19,2,1,2,Match Report,Ronaldo Cisneros
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,FW,62,0,0,0,0,2,1,0,0,16,5,0,0,0,0.2,0.2,0.0,0,0,8,10,80.0,0,10,1,0,0,Match Report,Ronaldo Cisneros
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,N,"LW,LM",24,0,1,0,0,0,0,0,0,11,1,0,1,0,0.0,0.0,0.0,0,0,7,10,70.0,0,8,1,0,0,Match Report,Ronaldo Cisneros
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,LW,45,0,0,0,0,2,0,0,0,14,6,0,0,0,0.1,0.1,0.0,0,0,7,9,77.8,1,13,3,0,0,Match Report,Ronaldo Cisneros
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,FW,76,2,0,0,0,3,3,0,0,18,11,0,0,0,0.4,0.4,0.0,2,2,12,12,100.0,0,17,3,3,4,Match Report,Ronaldo Cisneros
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,"FW,RW",73,0,0,0,0,1,1,0,0,16,11,0,0,2,0.0,0.0,0.1,2,0,10,11,90.9,0,6,2,0,0,Match Report,Ronaldo Cisneros
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,N,LW,35,0,0,0,0,0,0,0,0,15,2,0,0,1,0.0,0.0,0.0,0,0,7,11,63.6,0,10,0,1,1,Match Report,Thiago Almada
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,"CM,AM",45,1,0,0,0,1,1,0,0,40,10,1,1,0,0.0,0.0,0.1,1,0,27,34,79.4,4,34,5,0,2,Match Report,Thiago Almada
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,LW,89,0,0,0,0,2,1,1,0,61,21,1,0,1,0.1,0.1,0.3,3,0,42,51,82.4,3,52,8,0,1,Match Report,Thiago Almada
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,"LW,AM",90,0,0,0,0,3,1,0,0,69,22,2,2,0,0.1,0.1,0.4,6,0,52,59,88.1,5,60,8,0,0,Match Report,Thiago Almada
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,"RW,LW",90,0,0,0,0,5,2,1,0,67,14,1,0,0,0.5,0.5,0.0,4,0,44,55,80.0,3,50,7,3,4,Match Report,Thiago Almada
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,"RW,LW",90,0,0,0,0,5,1,0,0,65,11,1,0,1,0.7,0.7,0.2,4,0,49,55,89.1,9,47,10,0,1,Match Report,Thiago Almada
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,"AM,CM",90,0,0,0,0,2,1,0,0,77,15,0,2,0,0.1,0.1,0.2,5,0,56,69,81.2,11,63,16,3,3,Match Report,Thiago Almada
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,"AM,LW",90,0,1,0,0,2,0,0,0,74,12,1,0,1,0.1,0.1,0.3,4,1,59,67,88.1,6,59,9,0,1,Match Report,Thiago Almada
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,"RW,LW",90,1,1,0,0,5,3,0,0,88,11,0,1,2,0.2,0.2,0.7,9,1,58,73,79.5,6,76,15,2,5,Match Report,Thiago Almada
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,"AM,RW,DM",90,1,0,0,0,2,1,0,0,42,13,0,1,0,0.5,0.5,0.1,4,1,29,37,78.4,5,39,7,1,2,Match Report,Thiago Almada
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,"AM,CM",89,0,0,0,0,2,1,0,1,63,10,0,0,0,0.1,0.1,0.1,3,0,45,56,80.4,8,57,10,1,2,Match Report,Thiago Almada
+,,,,,,,,,,Thiago Almada
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,"AM,DM",83,0,1,0,0,0,0,0,0,61,19,0,0,2,0.0,0.0,0.4,6,2,43,51,84.3,4,47,3,0,0,Match Report,Thiago Almada
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,"AM,DM",90,0,0,0,0,5,0,0,0,79,14,0,0,1,0.2,0.2,0.0,7,0,52,65,80.0,4,70,14,6,9,Match Report,Thiago Almada
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,AM,70,0,1,0,0,2,1,0,0,75,12,1,2,0,0.2,0.2,0.5,7,1,56,68,82.4,4,52,8,0,1,Match Report,Thiago Almada
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,DM,31,0,1,0,0,1,0,0,0,33,5,0,1,0,0.1,0.1,0.5,5,1,25,30,83.3,2,25,5,0,1,Match Report,Thiago Almada
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,RW,25,1,0,0,0,2,1,0,0,13,5,1,0,0,0.4,0.4,0.0,0,0,3,7,42.9,0,10,1,0,0,Match Report,Luiz Araújo
+,,,,,,,,,,Luiz Araújo
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,RW,17,0,0,0,0,2,0,0,0,18,4,0,0,0,0.1,0.1,0.5,3,0,11,14,78.6,3,17,5,0,0,Match Report,Luiz Araújo
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,RW,29,0,0,0,0,2,0,0,0,25,4,1,1,1,0.1,0.1,0.0,0,0,15,17,88.2,1,23,5,3,3,Match Report,Luiz Araújo
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,RW,79,0,0,0,0,2,0,0,0,46,15,0,0,0,0.1,0.1,0.0,1,0,25,37,67.6,2,31,5,0,0,Match Report,Luiz Araújo
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,RW,90,0,1,0,0,2,0,1,0,60,18,2,0,0,0.3,0.3,0.3,5,1,35,45,77.8,4,48,8,3,3,Match Report,Luiz Araújo
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,"LW,RW,FW",90,1,0,0,0,10,2,0,0,57,13,2,0,1,0.8,0.8,0.0,4,0,21,33,63.6,2,47,7,1,4,Match Report,Luiz Araújo
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,"RW,WB,LW",90,0,0,0,0,3,0,0,0,60,13,3,0,2,0.2,0.2,0.1,2,0,32,47,68.1,1,50,11,2,5,Match Report,Luiz Araújo
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,"RW,CM,WB",90,0,0,0,0,4,1,0,0,65,10,2,0,1,0.3,0.3,0.3,6,0,29,49,59.2,9,65,11,7,12,Match Report,Luiz Araújo
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,RW,84,1,1,0,0,5,2,0,0,58,11,2,1,2,0.3,0.3,0.5,6,1,35,41,85.4,4,41,7,0,2,Match Report,Luiz Araújo
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,RW,80,1,0,0,0,4,1,1,0,46,9,4,2,0,0.4,0.4,0.0,7,1,19,28,67.9,1,32,11,2,3,Match Report,Luiz Araújo
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,FW,90,0,0,0,0,3,1,0,0,42,20,1,1,1,0.3,0.3,0.1,3,0,21,28,75.0,4,33,9,4,8,Match Report,Luiz Araújo
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,"RW,RM",90,0,0,0,0,5,4,1,0,61,17,2,1,2,0.3,0.3,0.6,7,1,32,37,86.5,5,54,16,3,8,Match Report,Luiz Araújo
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,"RW,LW",90,0,0,0,0,3,1,1,0,50,19,2,0,1,0.4,0.4,0.2,6,0,27,34,79.4,3,41,11,3,4,Match Report,Luiz Araújo
+,,,,,,,,,,Luiz Araújo
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,"RW,RM,WB",90,0,0,0,0,1,1,1,0,61,10,2,0,0,0.4,0.4,0.2,4,0,34,49,69.4,2,49,11,8,9,Match Report,Luiz Araújo
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,LB,90,0,0,0,0,0,0,1,0,51,14,5,1,2,0.0,0.0,0.0,0,0,28,38,73.7,4,32,3,0,1,Match Report,Andrew Gutman
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,LB,90,0,0,0,0,1,0,0,0,40,11,1,1,2,0.1,0.1,0.0,1,0,25,29,86.2,4,28,0,1,3,Match Report,Andrew Gutman
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,LB,90,0,0,0,0,2,1,0,0,58,12,5,2,1,0.2,0.2,0.0,2,0,32,45,71.1,3,40,7,2,2,Match Report,Andrew Gutman
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,"LB,CB",90,0,0,0,0,1,0,1,0,51,10,1,1,2,0.1,0.1,0.0,1,0,29,41,70.7,2,36,2,0,1,Match Report,Andrew Gutman
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,"LB,WB",90,0,0,0,0,1,0,0,0,63,15,2,1,2,0.0,0.0,0.0,2,0,39,52,75.0,2,41,4,4,4,Match Report,Andrew Gutman
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,"WB,LB",90,0,0,0,0,2,1,0,0,77,24,7,4,2,0.1,0.1,0.1,4,0,45,56,80.4,1,48,5,1,3,Match Report,Andrew Gutman
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,LB,90,0,0,0,0,3,1,0,0,84,10,4,1,4,0.7,0.7,0.1,5,0,52,68,76.5,4,50,5,0,0,Match Report,Andrew Gutman
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,LB,75,0,0,0,0,1,1,0,0,55,14,3,0,0,0.1,0.1,0.0,0,0,40,47,85.1,1,35,4,2,2,Match Report,Andrew Gutman
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,LB,90,0,0,0,0,1,1,0,0,54,15,3,4,4,0.0,0.0,0.0,1,0,30,38,78.9,3,27,3,1,1,Match Report,Andrew Gutman
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,LB,66,0,0,0,0,2,1,0,0,34,10,1,2,2,0.2,0.2,0.1,1,0,23,27,85.2,1,25,1,1,2,Match Report,Andrew Gutman
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,LB,90,0,0,0,0,1,0,1,0,60,18,2,1,1,0.0,0.0,0.0,1,0,40,47,85.1,2,33,4,0,1,Match Report,Andrew Gutman
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,LB,45,0,0,0,0,0,0,0,0,23,9,0,1,2,0.0,0.0,0.0,1,0,14,18,77.8,2,15,2,0,0,Match Report,Andrew Gutman
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,CM,74,0,0,0,0,0,0,0,0,51,20,3,1,2,0.0,0.0,0.0,2,0,33,39,84.6,5,33,3,1,1,Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,CM,71,0,0,0,0,0,0,0,0,50,10,2,0,3,0.0,0.0,0.0,1,0,36,43,83.7,2,28,5,0,1,Match Report,Amar Sejdic
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,CM,55,0,0,0,0,1,0,0,0,33,9,3,2,0,0.1,0.1,0.0,1,0,26,29,89.7,1,21,1,0,0,Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,"On matchday squad, but did not play",Match Report,Amar Sejdic
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,DM,59,0,0,0,0,0,0,0,0,34,21,2,0,2,0.0,0.0,0.1,2,0,24,27,88.9,1,28,2,1,1,Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,DM,79,0,0,0,0,2,0,1,0,60,14,2,0,0,0.0,0.0,0.0,1,0,47,52,90.4,7,49,5,3,5,Match Report,Amar Sejdic
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,DM,75,0,0,0,0,0,0,0,0,58,19,0,2,1,0.0,0.0,0.0,2,0,48,53,90.6,4,39,4,0,0,Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,"On matchday squad, but did not play",Match Report,Amar Sejdic
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,"On matchday squad, but did not play",Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,AM,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,N,"On matchday squad, but did not play",Match Report,Amar Sejdic
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,N,"DM,AM",13,0,0,0,0,0,0,0,0,24,9,1,0,1,0.0,0.0,0.0,0,0,21,22,95.5,1,20,1,0,0,Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,N,DM,9,0,0,0,0,1,1,0,0,22,1,0,0,0,0.0,0.0,0.0,1,0,17,21,81.0,4,13,2,0,0,Match Report,Amar Sejdic
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,CM,72,0,0,0,0,0,0,1,0,48,12,2,1,1,0.0,0.0,0.0,0,0,32,39,82.1,2,28,3,0,0,Match Report,Amar Sejdic
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,DM,66,0,0,0,0,0,0,0,0,58,13,2,0,4,0.0,0.0,0.0,0,0,37,44,84.1,4,39,0,0,2,Match Report,Amar Sejdic
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,"On matchday squad, but did not play",Match Report,Amar Sejdic
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,"DM,AM",81,0,0,0,0,0,0,0,0,58,18,3,4,1,0.0,0.0,0.0,1,0,46,49,93.9,2,38,3,0,0,Match Report,Amar Sejdic
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,DM,59,0,0,0,0,1,0,1,0,47,10,0,0,1,0.0,0.0,0.0,0,0,33,43,76.7,3,34,3,0,0,Match Report,Amar Sejdic
+Thu,WCQ,WCQ — CONMEBOL (M),Away,L 1–3,ve Venezuela,bo Bolivia,N,,28,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Josef Martínez
+Tue,WCQ,WCQ — CONMEBOL (M),Home,D 0–0,ve Venezuela,uy Uruguay,Y,FW,78,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Josef Martínez
+,,,,,,,,,,Josef Martínez
+Thu,WCQ,WCQ — CONMEBOL (M),Home,L 1–3,ve Venezuela,ar Argentina,Y,FW,66,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Josef Martínez
+Sun,WCQ,WCQ — CONMEBOL (M),Away,L 0–1,ve Venezuela,pe Peru,N,"On matchday squad, but did not play",Match Report,Josef Martínez
+Thu,WCQ,WCQ — CONMEBOL (M),Away,L 1–2,ve Venezuela,py Paraguay,N,,33,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Josef Martínez
+,,,,,,,,,,Josef Martínez
+Fri,WCQ,WCQ — CONMEBOL (M),Home,W 4–1,ve Venezuela,bo Bolivia,N,,21,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Josef Martínez
+Tue,WCQ,WCQ — CONMEBOL (M),Away,L 1–4,ve Venezuela,uy Uruguay,N,,45,1,0,0,0,3,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Josef Martínez
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,FW,74,0,2,0,0,1,0,0,0,26,11,1,0,0,0.2,0.2,0.7,3,2,12,18,66.7,3,13,3,0,0,Match Report,Josef Martínez
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,FW,90,0,0,0,0,1,1,0,0,28,9,0,0,1,0.0,0.0,0.1,3,0,16,19,84.2,1,17,2,0,0,Match Report,Josef Martínez
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,FW,90,1,0,1,1,3,3,0,0,19,12,0,1,0,1.1,0.3,0.1,3,0,9,11,81.8,2,11,2,0,1,Match Report,Josef Martínez
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,FW,90,1,0,0,0,2,1,0,0,24,15,0,0,0,0.6,0.6,0.0,1,1,15,19,78.9,1,16,2,0,0,Match Report,Josef Martínez
+Fri,WCQ,WCQ — CONMEBOL (M),Away,L 0–3,ve Venezuela,ar Argentina,Y,FW,61,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Josef Martínez
+Tue,WCQ,WCQ — CONMEBOL (M),Home,L 0–1,ve Venezuela,co Colombia,N,"On matchday squad, but did not play",Match Report,Josef Martínez
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,FW,61,0,0,0,0,2,0,0,0,15,3,0,0,1,0.1,0.1,0.0,0,0,7,9,77.8,0,9,0,0,1,Match Report,Josef Martínez
+,,,,,,,,,,Josef Martínez
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,N,FW,45,0,0,0,0,0,0,0,0,10,2,1,0,0,0.0,0.0,0.1,2,0,9,10,90.0,0,7,1,0,0,Match Report,Josef Martínez
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y*,FW,90,1,1,0,0,3,2,0,0,46,6,0,1,0,0.4,0.4,0.1,7,2,34,38,89.5,2,37,4,1,1,Match Report,Josef Martínez
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y*,FW,90,0,0,0,0,1,0,0,0,22,3,0,0,0,0.1,0.1,0.1,2,0,12,15,80.0,4,13,0,0,0,Match Report,Josef Martínez
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,N,FW,28,1,0,0,0,2,1,0,0,6,1,0,0,0,0.7,0.7,0.0,0,0,1,2,50.0,0,3,1,0,0,Match Report,Josef Martínez
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y*,FW,90,1,0,0,0,4,2,0,0,19,3,0,0,0,0.6,0.6,0.2,3,0,13,13,100.0,2,10,2,0,0,Match Report,Josef Martínez
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y*,FW,90,0,0,0,0,3,2,0,0,20,2,0,0,0,0.3,0.3,0.4,3,0,11,15,73.3,1,9,2,0,0,Match Report,Josef Martínez
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,N,FW,14,0,0,0,0,0,0,0,0,8,0,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,5,0,0,0,Match Report,Josef Martínez
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,FW,31,0,0,0,0,5,0,0,0,17,1,0,0,0,0.8,0.8,0.0,2,0,6,6,100.0,0,5,2,0,0,Match Report,Josef Martínez
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,LW,16,1,0,0,0,1,1,0,0,9,4,1,0,1,0.4,0.4,0.2,1,0,1,4,25.0,1,5,2,0,1,Match Report,Caleb Wiley
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,N,DM,27,0,0,0,0,0,0,0,0,9,2,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,0,5,0,0,1,Match Report,Caleb Wiley
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Caleb Wiley
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Caleb Wiley
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,"On matchday squad, but did not play",Match Report,Caleb Wiley
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,LW,10,0,0,0,0,1,0,0,0,5,4,0,0,0,0.1,0.1,0.0,1,0,2,3,66.7,1,3,0,0,0,Match Report,Caleb Wiley
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,LW,73,0,0,0,0,1,0,0,0,49,5,1,0,3,0.1,0.1,0.7,5,0,29,37,78.4,2,34,4,2,2,Match Report,Caleb Wiley
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,LW,61,0,0,0,0,0,0,0,0,39,12,3,2,1,0.0,0.0,0.1,4,0,23,29,79.3,2,23,7,0,1,Match Report,Caleb Wiley
+,,,,,,,,,,Caleb Wiley
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,LB,14,0,0,0,0,0,0,0,0,9,0,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,0,0,0,Match Report,Caleb Wiley
+,,,,,,,,,,Caleb Wiley
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,LB,84,0,0,0,0,3,1,0,0,56,14,3,4,0,0.7,0.7,0.0,2,1,34,46,73.9,5,39,9,0,0,Match Report,Caleb Wiley
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,LB,90,0,0,0,0,0,0,0,0,68,10,3,3,0,0.0,0.0,0.1,2,0,46,58,79.3,1,43,6,0,0,Match Report,Caleb Wiley
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,WB,90,0,0,0,0,0,0,0,0,70,16,1,1,3,0.0,0.0,0.0,2,0,39,50,78.0,4,49,4,6,11,Match Report,Caleb Wiley
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,LB,73,0,0,0,0,0,0,0,0,43,8,3,2,4,0.0,0.0,0.1,1,0,26,34,76.5,2,25,1,0,0,Match Report,Caleb Wiley
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,LB,90,0,0,0,0,1,0,0,0,67,9,3,0,1,0.1,0.1,0.1,1,0,44,53,83.0,1,33,1,1,4,Match Report,Caleb Wiley
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,WB,90,0,0,0,0,0,0,0,0,34,3,1,2,1,0.0,0.0,0.1,2,0,20,28,71.4,1,20,9,0,0,Match Report,Caleb Wiley
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,"WB,LB",90,0,0,0,0,0,0,0,0,58,14,3,1,1,0.0,0.0,0.0,1,1,45,53,84.9,5,41,7,1,1,Match Report,Caleb Wiley
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,DM,29,0,0,0,0,1,0,0,0,29,12,3,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,22,2,0,0,Match Report,Franco Ibarra
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,DM,31,0,0,0,0,1,0,1,0,21,20,1,1,1,0.0,0.0,0.0,1,0,12,15,80.0,2,16,5,1,2,Match Report,Franco Ibarra
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,"On matchday squad, but did not play",Match Report,Franco Ibarra
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Franco Ibarra
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,DM,84,0,0,0,0,0,0,1,0,40,23,1,1,0,0.0,0.0,0.0,1,0,28,35,80.0,3,29,4,0,0,Match Report,Franco Ibarra
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,DM,80,0,0,0,0,0,0,0,0,62,13,4,3,1,0.0,0.0,0.0,3,1,41,49,83.7,5,48,2,0,0,Match Report,Franco Ibarra
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,DM,90,0,0,0,0,2,0,0,0,64,20,5,3,0,0.0,0.0,0.1,6,0,43,48,89.6,5,44,6,0,1,Match Report,Franco Ibarra
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,DM,73,0,0,0,0,0,0,1,0,48,13,2,2,2,0.0,0.0,0.0,3,0,32,39,82.1,1,32,2,0,1,Match Report,Franco Ibarra
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,DM,67,0,0,0,0,1,0,1,0,48,17,4,0,0,0.0,0.0,0.0,2,0,36,43,83.7,1,36,6,0,0,Match Report,Franco Ibarra
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,DM,77,0,0,0,0,1,0,0,0,67,18,3,3,2,0.0,0.0,0.0,1,0,47,58,81.0,2,44,1,0,1,Match Report,Franco Ibarra
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,DM,63,0,1,0,0,1,0,0,0,42,12,0,2,1,0.1,0.1,0.3,3,1,24,31,77.4,2,23,1,0,1,Match Report,Franco Ibarra
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,CM,89,0,0,0,0,0,0,1,0,55,17,6,0,0,0.0,0.0,0.1,1,0,33,42,78.6,1,35,3,0,1,Match Report,Franco Ibarra
+,,,,,,,,,,Franco Ibarra
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,DM,66,0,0,0,0,1,0,0,0,43,17,0,2,2,0.1,0.1,0.0,1,0,32,38,84.2,3,29,2,0,0,Match Report,Franco Ibarra
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,N,DM,20,0,0,0,0,0,0,0,0,13,4,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,9,0,1,1,Match Report,Franco Ibarra
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,"On matchday squad, but did not play",Match Report,Franco Ibarra
+Thu,WCQ,Third round,Away,D 0–0,us United States,sv El Salvador,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Sun,WCQ,Third round,Home,D 1–1,us United States,ca Canada,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Wed,WCQ,Third round,Away,W 4–1,us United States,hn Honduras,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Thu,WCQ,Third round,Home,W 2–0,us United States,jm Jamaica,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Sun,WCQ,Third round,Away,L 0–1,us United States,pa Panama,N,"On matchday squad, but did not play",Match Report,Miles Robinson
+Wed,WCQ,Third round,Home,W 2–1,us United States,cr Costa Rica,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Fri,WCQ,Third round,Home,W 2–0,us United States,mx Mexico,Y,LB,88,0,0,0,0,,,2,1,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+,,,,,,,,,,Miles Robinson
+Thu,WCQ,Third round,Home,W 1–0,us United States,sv El Salvador,N,"On matchday squad, but did not play",Match Report,Miles Robinson
+Sun,WCQ,Third round,Away,L 0–2,us United States,ca Canada,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Wed,WCQ,Third round,Home,W 3–0,us United States,hn Honduras,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,CB,90,0,0,0,0,0,0,1,0,49,9,1,1,5,0.0,0.0,0.0,0,0,30,36,83.3,3,25,2,0,0,Match Report,Miles Robinson
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,CB,85,0,0,0,0,1,0,2,1,79,8,1,1,3,0.2,0.2,0.0,0,0,64,72,88.9,4,48,6,0,0,Match Report,Miles Robinson
+,,,,,,,,,,Miles Robinson
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,CB,90,0,0,0,0,1,0,0,0,57,10,0,0,5,0.0,0.0,0.0,0,0,40,48,83.3,5,35,2,0,0,Match Report,Miles Robinson
+Thu,WCQ,Third round,Away,D 0–0,us United States,mx Mexico,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Sun,WCQ,Third round,Home,W 5–1,us United States,pa Panama,Y,CB,64,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Wed,WCQ,Third round,Away,L 0–2,us United States,cr Costa Rica,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Miles Robinson
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,"CB,RW",17,0,0,0,0,0,0,0,0,12,2,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,2,7,2,0,0,Match Report,Miles Robinson
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,CB,90,0,0,0,0,1,0,0,0,72,17,2,4,3,0.1,0.1,0.0,0,0,46,55,83.6,4,46,1,0,0,Match Report,Miles Robinson
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,CB,90,0,0,0,0,0,0,0,0,69,7,3,2,0,0.0,0.0,0.0,0,0,56,63,88.9,3,42,2,0,0,Match Report,Miles Robinson
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y*,CB,90,0,0,0,0,0,0,0,0,70,4,1,2,0,0.0,0.0,0.0,0,0,63,65,96.9,7,41,3,0,0,Match Report,Miles Robinson
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y*,CB,90,0,0,0,0,0,0,0,0,76,8,1,0,3,0.0,0.0,0.0,1,0,64,72,88.9,1,58,3,0,0,Match Report,Miles Robinson
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y*,CB,17,0,0,0,0,0,0,0,0,16,1,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,1,11,0,0,0,Match Report,Miles Robinson
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Rocco Ríos Novo
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,"On matchday squad, but did not play",Match Report,Rocco Ríos Novo
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,"On matchday squad, but did not play",Match Report,Rocco Ríos Novo
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,"On matchday squad, but did not play",Match Report,Rocco Ríos Novo
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,N,"On matchday squad, but did not play",Match Report,Rocco Ríos Novo
+Wed,USL Champ,Regular Season,Home,L 3–4,Atlanta 2,RGV Toros,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Rocco Ríos Novo
+Sat,USL Champ,Regular Season,Away,L 2–5,Atlanta 2,Memphis,Y,GK,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Rocco Ríos Novo
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,20,0,0,0,Match Report,Rocco Ríos Novo
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,GK,90,0,0,0,0,0,0,0,0,56,0,0,0,0,0.0,0.0,0.0,0,0,47,55,85.5,0,34,0,0,0,Match Report,Rocco Ríos Novo
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,GK,90,0,0,0,0,0,0,1,0,64,0,0,0,0,0.0,0.0,0.0,0,0,57,64,89.1,0,49,0,0,0,Match Report,Rocco Ríos Novo
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,GK,90,0,0,0,0,0,0,0,0,57,0,0,0,0,0.0,0.0,0.0,0,0,48,56,85.7,0,45,0,0,0,Match Report,Rocco Ríos Novo
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,GK,90,0,0,0,0,0,0,0,0,42,0,0,0,0,0.0,0.0,0.0,0,0,37,39,94.9,0,30,0,0,0,Match Report,Rocco Ríos Novo
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,0,16,0,0,0,Match Report,Rocco Ríos Novo
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,GK,90,0,0,0,0,0,0,0,0,19,0,0,0,0,0.0,0.0,0.0,0,0,19,19,100.0,0,14,0,0,0,Match Report,Rocco Ríos Novo
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y*,GK,90,0,0,0,0,0,0,0,0,45,0,0,0,0,0.0,0.0,0.0,0,0,29,44,65.9,0,29,0,0,0,Match Report,Brad Guzan
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y*,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0,0.0,0.0,0.0,0,0,26,31,83.9,0,20,0,1,1,Match Report,Brad Guzan
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y*,GK,90,0,0,0,0,0,0,0,0,50,0,0,0,0,0.0,0.0,0.0,0,0,42,46,91.3,0,25,0,0,0,Match Report,Brad Guzan
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y*,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,31,33,93.9,0,26,0,0,0,Match Report,Brad Guzan
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y*,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0,0.0,0.0,0.0,0,0,21,39,53.8,0,25,0,0,0,Match Report,Brad Guzan
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y*,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0,0.0,0.0,0.0,0,0,30,36,83.3,0,21,0,0,0,Match Report,Brad Guzan
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y*,GK,72,0,0,0,0,0,0,0,0,23,0,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,0,14,0,0,0,Match Report,Brad Guzan
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,GK,18,0,0,0,0,0,0,0,0,5,0,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,2,0,0,0,Match Report,Bobby Shuttleworth
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,GK,90,0,0,0,0,0,0,0,0,23,0,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,0,8,0,0,0,Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0.0,0.0,0.0,0,0,29,34,85.3,0,24,0,0,0,Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,Y,GK,90,0,0,0,0,0,0,0,0,53,0,0,0,0,0.0,0.0,0.0,0,0,45,50,90.0,0,35,0,0,0,Match Report,Bobby Shuttleworth
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,0,19,0,0,0,Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,14,0,0,0,Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,GK,90,0,0,0,0,0,0,0,0,25,1,0,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,15,0,0,0,Match Report,Bobby Shuttleworth
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,N,"On matchday squad, but did not play",Match Report,Bobby Shuttleworth
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,N,LW,1,0,0,0,0,0,0,0,0,3,1,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,Match Report,Aiden McFadden
+Sat,USL Champ,Regular Season,Away,L 0–1,Atlanta 2,Louisville City,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Wed,USL Champ,Regular Season,Home,L 0–1,Atlanta 2,Red Bulls II,Y,RB,18,0,0,0,0,0,0,0,1,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+,,,,,,,,,,Aiden McFadden
+Sun,USL Champ,Regular Season,Home,W 4–1,Atlanta 2,Charleston,Y,RB,90,0,0,0,0,2,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Sat,USL Champ,Regular Season,Away,W 2–1,Atlanta 2,Hartford,Y,LB,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Sat,USL Champ,Regular Season,Home,L 0–4,Atlanta 2,Detroit City,Y,LB,90,0,0,0,0,3,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Sat,USL Champ,Regular Season,Away,L 1–2,Atlanta 2,Indy Eleven,Y,RB,90,0,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Sat,USL Champ,Regular Season,Away,L 0–4,Atlanta 2,Pittsburgh,Y,RM,90,0,0,0,0,1,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Wed,USL Champ,Regular Season,Home,L 0–4,Atlanta 2,Louisville City,Y,AM,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Sat,USL Champ,Regular Season,Away,L 1–3,Atlanta 2,Detroit City,Y,LB,69,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Fri,USL Champ,Regular Season,Home,D 0–0,Atlanta 2,Orange County,Y,RB,90,0,0,0,0,1,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Wed,USL Champ,Regular Season,Home,L 3–4,Atlanta 2,RGV Toros,Y,CB,90,0,0,0,0,4,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Sat,USL Champ,Regular Season,Away,L 2–5,Atlanta 2,Memphis,Y,RB,60,0,0,0,0,2,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Sat,USL Champ,Regular Season,Home,W 2–0,Atlanta 2,Loudoun Utd,N,,28,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Aiden McFadden
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Aiden McFadden
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,RB,81,0,0,0,0,3,0,0,0,60,10,3,1,1,0.2,0.2,0.0,2,0,40,49,81.6,2,35,7,4,4,Match Report,Aiden McFadden
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,WB,90,0,0,0,0,0,0,0,0,56,11,0,1,4,0.0,0.0,0.7,4,0,34,42,81.0,3,25,6,1,4,Match Report,Aiden McFadden
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,Y,"RB,LB",90,0,0,0,0,1,0,1,0,60,15,2,0,1,0.0,0.0,0.0,2,0,35,54,64.8,6,37,6,2,2,Match Report,Aiden McFadden
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,Y,RB,66,0,0,0,0,0,0,0,0,45,8,1,1,3,0.0,0.0,0.1,2,0,26,37,70.3,0,29,7,1,2,Match Report,Aiden McFadden
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,WB,76,0,0,0,0,1,1,0,0,53,11,3,2,1,0.0,0.0,0.3,1,0,34,42,81.0,0,29,3,1,1,Match Report,Aiden McFadden
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,WB,59,0,0,0,0,0,0,1,0,39,6,1,0,0,0.0,0.0,0.0,1,0,31,36,86.1,2,30,4,0,1,Match Report,Aiden McFadden
+Fri,WCQ,WCQ — CONMEBOL (M),Away,L 0–3,ve Venezuela,co Colombia,Y,RB,90,0,0,0,0,1,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+Tue,WCQ,WCQ — CONMEBOL (M),Home,L 0–1,ve Venezuela,py Paraguay,N,,14,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+,,,,,,,,,,Ronald Hernández
+Thu,WCQ,WCQ — CONMEBOL (M),Home,L 1–3,ve Venezuela,ar Argentina,N,,24,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+Sun,WCQ,WCQ — CONMEBOL (M),Away,L 0–1,ve Venezuela,pe Peru,Y,RB,90,0,0,0,0,1,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+,,,,,,,,,,Ronald Hernández
+Thu,WCQ,WCQ — CONMEBOL (M),Home,L 1–3,ve Venezuela,br Brazil,Y,RB,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+Sun,WCQ,WCQ — CONMEBOL (M),Home,W 2–1,ve Venezuela,ec Ecuador,Y,RB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+Thu,WCQ,WCQ — CONMEBOL (M),Away,L 0–3,ve Venezuela,cl Chile,Y,RB,45,0,0,0,0,0,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+,,,,,,,,,,Ronald Hernández
+Tue,WCQ,WCQ — CONMEBOL (M),Home,L 1–2,ve Venezuela,pe Peru,Y,RB,90,0,1,0,0,1,0,1,0,,,,2,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+Fri,WCQ,WCQ — CONMEBOL (M),Home,W 4–1,ve Venezuela,bo Bolivia,Y,RB,90,0,0,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+Tue,WCQ,WCQ — CONMEBOL (M),Away,L 1–4,ve Venezuela,uy Uruguay,Y,RB,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,RB,90,0,0,0,0,0,0,0,0,73,12,3,4,4,0.0,0.0,0.2,1,0,54,61,88.5,4,35,1,0,0,Match Report,Ronald Hernández
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,RB,90,0,0,0,0,0,0,1,0,82,7,1,6,3,0.0,0.0,0.0,1,0,61,74,82.4,3,48,9,1,1,Match Report,Ronald Hernández
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,RB,82,0,0,0,0,0,0,0,0,65,5,0,2,1,0.0,0.0,0.0,2,0,49,59,83.1,3,40,3,0,1,Match Report,Ronald Hernández
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,RB,45,0,0,0,0,0,0,0,0,38,4,0,2,0,0.0,0.0,0.0,1,0,28,35,80.0,3,28,7,0,0,Match Report,Ronald Hernández
+Fri,WCQ,WCQ — CONMEBOL (M),Away,L 0–3,ve Venezuela,ar Argentina,N,"On matchday squad, but did not play",Match Report,Ronald Hernández
+Tue,WCQ,WCQ — CONMEBOL (M),Home,L 0–1,ve Venezuela,co Colombia,Y,RB,90,0,0,0,0,0,0,1,0,,,,1,,,,,,,,,,,,,,,Match Report,Ronald Hernández
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,"On matchday squad, but did not play",Match Report,Ronald Hernández
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Ronald Hernández
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,"On matchday squad, but did not play",Match Report,Ronald Hernández
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Ronald Hernández
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Ronald Hernández
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,LB,10,0,0,0,0,0,0,0,0,6,2,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,0,4,1,0,0,Match Report,Ronald Hernández
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,"On matchday squad, but did not play",Match Report,Ronald Hernández
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,"CB,LB",45,0,0,0,0,0,0,0,0,26,8,3,1,0,0.0,0.0,0.0,1,0,21,22,95.5,2,19,2,0,0,Match Report,Ronald Hernández
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,RB,5,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,1,0,0,0,Match Report,Ronald Hernández
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sun,USL Champ,Regular Season,Home,W 4–1,Atlanta 2,Charleston,Y,CB,90,0,0,0,0,1,1,0,0,,,,6,,,,,,,,,,,,,,,Match Report,Alex DeJohn
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,CB,73,0,0,0,0,1,0,0,0,74,7,2,2,1,0.1,0.1,0.0,0,0,60,63,95.2,2,57,0,1,1,Match Report,Alex DeJohn
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,Y,CB,90,0,0,0,0,1,0,0,0,75,10,2,0,5,0.0,0.0,0.0,0,0,55,62,88.7,2,50,6,0,0,Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,Y,CB,73,0,0,0,0,1,0,0,0,51,5,0,4,0,0.1,0.1,0.0,2,0,41,46,89.1,3,34,3,0,0,Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,Y,CB,90,0,0,0,0,4,1,0,0,69,13,1,3,1,0.2,0.2,0.0,0,0,48,57,84.2,2,42,4,0,0,Match Report,Alex DeJohn
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,Y,CB,90,0,0,0,0,0,0,0,0,75,11,4,2,3,0.0,0.0,0.0,1,0,46,58,79.3,0,40,3,0,0,Match Report,Alex DeJohn
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,"On matchday squad, but did not play",Match Report,Alex DeJohn
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,DM,90,0,0,0,0,1,0,1,0,69,13,0,4,3,0.0,0.0,0.0,2,1,50,61,82.0,2,43,4,1,1,Match Report,Osvaldo Alonso
+,,,,,,,,,,Osvaldo Alonso
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,DM,90,0,0,0,0,0,0,1,0,63,18,0,1,0,0.0,0.0,0.0,2,0,51,58,87.9,4,41,1,0,0,Match Report,Osvaldo Alonso
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,DM,90,0,0,0,0,0,0,0,0,87,15,3,0,2,0.0,0.0,0.0,2,1,77,83,92.8,9,74,4,1,1,Match Report,Osvaldo Alonso
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,DM,61,0,0,0,0,0,0,0,0,47,13,4,1,2,0.0,0.0,0.0,1,0,33,37,89.2,2,29,2,1,1,Match Report,Osvaldo Alonso
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,Y,LW,63,0,0,0,0,1,1,0,0,31,10,1,1,3,0.0,0.0,0.0,3,1,13,19,68.4,2,19,4,1,2,Match Report,Tyler Wolff
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,Y,LW,89,0,0,0,0,2,1,0,0,33,14,1,2,1,0.2,0.2,0.1,2,0,16,21,76.2,2,22,2,1,3,Match Report,Tyler Wolff
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,Y,LW,55,0,0,0,0,1,0,0,0,32,16,1,1,1,0.1,0.1,0.0,2,0,15,20,75.0,2,19,1,1,2,Match Report,Tyler Wolff
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,Y,AM,45,0,0,0,0,0,0,0,0,26,19,0,0,1,0.0,0.0,0.0,0,0,14,17,82.4,0,24,1,1,2,Match Report,Tyler Wolff
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,LW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report,Tyler Wolff
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Tyler Wolff
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,"On matchday squad, but did not play",Match Report,Tyler Wolff
+,,,,,,,,,,Tyler Wolff
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,"On matchday squad, but did not play",Match Report,Tyler Wolff
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,"On matchday squad, but did not play",Match Report,Tyler Wolff
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,"On matchday squad, but did not play",Match Report,Tyler Wolff
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,N,"On matchday squad, but did not play",Match Report,Tyler Wolff
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Santiago Sosa
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,CM,12,0,0,0,0,0,0,1,0,11,3,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,0,9,1,0,0,Match Report,Santiago Sosa
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,DM,45,0,0,0,0,0,0,0,0,46,8,2,3,1,0.0,0.0,0.0,0,0,34,40,85.0,4,33,2,0,0,Match Report,Santiago Sosa
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,DM,80,0,0,0,0,0,0,0,0,49,11,1,2,0,0.0,0.0,0.0,4,0,38,45,84.4,3,32,0,0,0,Match Report,Santiago Sosa
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,Y,DM,89,0,0,0,0,3,1,0,0,77,13,3,1,0,0.1,0.1,0.2,5,0,60,65,92.3,9,53,1,1,1,Match Report,Santiago Sosa
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,Y,DM,89,0,0,0,0,0,0,0,0,79,7,0,2,1,0.0,0.0,0.1,3,0,69,76,90.8,15,57,8,0,0,Match Report,Santiago Sosa
+,,,,,,,,,,Santiago Sosa
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,DM,10,0,0,0,0,0,0,0,0,12,3,1,0,1,0.0,0.0,0.0,0,0,9,10,90.0,1,7,0,0,0,Match Report,Santiago Sosa
+,,,,,,,,,,Santiago Sosa
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,N,"On matchday squad, but did not play",Match Report,Santiago Sosa
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,DM,9,0,0,0,0,0,0,0,0,8,1,0,0,1,0.0,0.0,0.0,0,0,3,7,42.9,0,3,0,0,0,Match Report,Santiago Sosa
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,N,DM,9,0,0,0,0,0,0,0,0,10,4,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,7,1,0,0,Match Report,Santiago Sosa
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,"On matchday squad, but did not play",Match Report,Santiago Sosa
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,DM,11,0,0,0,0,0,0,0,0,7,1,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,7,2,0,0,Match Report,Emerson Hyndman
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,DM,15,0,0,0,0,1,1,0,0,18,5,0,1,1,0.0,0.0,0.0,0,0,12,15,80.0,0,15,1,0,0,Match Report,Emerson Hyndman
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Emerson Hyndman
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,AM,24,0,0,0,0,0,0,0,0,15,7,0,1,0,0.0,0.0,0.0,1,0,11,13,84.6,1,12,0,1,1,Match Report,Emerson Hyndman
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,"AM,DM",20,0,0,0,0,0,0,0,0,15,6,1,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,14,1,1,1,Match Report,Emerson Hyndman
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,DM,6,0,0,0,0,0,0,0,0,5,4,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,3,0,0,0,Match Report,Emerson Hyndman
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,N,DM,23,0,0,0,0,0,0,0,0,22,4,1,0,0,0.0,0.0,0.0,0,0,20,21,95.2,2,21,4,0,0,Match Report,Emerson Hyndman
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,Y,DM,90,0,0,0,0,0,0,0,0,95,15,1,1,3,0.0,0.0,0.0,2,0,84,89,94.4,12,75,4,0,0,Match Report,Emerson Hyndman
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,Y,DM,81,0,0,0,0,0,0,0,0,53,11,3,4,2,0.0,0.0,0.0,3,0,39,43,90.7,3,34,1,0,0,Match Report,Emerson Hyndman
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,N,CM,18,0,0,0,0,1,0,0,0,5,6,0,0,0,0.4,0.4,0.0,1,1,4,4,100.0,0,3,0,0,0,Match Report,Emerson Hyndman
+Wed,Liga MX,Clausura 2022 Regular Season,Away,D 1–1,UANL,Santos,Y,CB,59,0,0,0,0,0,0,1,0,,,,0,,,,,,,,,,,,,,,Match Report,Juan José Sánchez
+Sat,Liga MX,Clausura 2022 Regular Season,Home,L 0–2,UANL,Puebla,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Sun,Liga MX,Clausura 2022 Regular Season,Away,W 2–1,UANL,UNAM,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Sun,Liga MX,Clausura 2022 Regular Season,Home,W 4–3,UANL,Mazatlán,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+,,,,,,,,,,Juan José Sánchez
+Sat,Liga MX,Clausura 2022 Regular Season,Away,W 3–0,UANL,León,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+,,,,,,,,,,Juan José Sánchez
+Sun,Liga MX,Clausura 2022 Regular Season,Home,W 2–0,UANL,Tijuana,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Thu,Liga MX,Clausura 2022 Regular Season,Away,L 1–2,UANL,Pachuca,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Sun,Liga MX,Clausura 2022 Regular Season,Away,W 1–0,UANL,Querétaro,N,,13,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Juan José Sánchez
+Sat,Liga MX,Clausura 2022 Regular Season,Home,W 3–0,UANL,Toluca,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Tue,Liga MX,Clausura 2022 Regular Season,Away,L 0–2,UANL,Necaxa,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Juan José Sánchez
+Sat,Liga MX,Clausura 2022 Regular Season,Home,L 0–2,UANL,América,Y,CB,73,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Juan José Sánchez
+Sat,Liga MX,Clausura 2022 Regular Season,Away,D 1–1,UANL,Atlas,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Thu,Liga MX,Quarter-finals,Away,W 1–0,UANL,Cruz Azul,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Sun,Liga MX,Quarter-finals,Home,L 0–1,UANL,Cruz Azul,N,,4,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Juan José Sánchez
+Wed,Liga MX,Semi-finals,Away,L 0–3,UANL,Atlas,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Sat,Liga MX,Semi-finals,Home,W 4–2,UANL,Atlas,N,"On matchday squad, but did not play",Match Report,Juan José Sánchez
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,RB,24,0,0,0,0,0,0,0,0,14,2,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,1,7,2,0,0,Match Report,Juan José Sánchez
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,Y,CB,90,0,0,0,0,0,0,0,0,69,8,2,3,0,0.0,0.0,0.0,1,0,41,52,78.8,4,40,5,0,0,Match Report,Juan José Sánchez
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,Y,"CB,RB",90,1,0,0,0,2,1,0,0,70,8,1,1,1,0.4,0.4,0.0,0,0,54,58,93.1,7,49,8,0,0,Match Report,Juan José Sánchez
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,"RW,FW,LW",65,1,0,0,0,3,1,0,0,24,12,0,0,1,0.9,0.9,0.0,3,1,9,14,64.3,2,18,4,1,1,Match Report,Dom Dwyer
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,N,CM,19,0,0,0,0,0,0,1,0,5,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,Match Report,Dom Dwyer
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Dom Dwyer
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,LW,3,0,0,0,0,1,0,0,1,2,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,Match Report,Dom Dwyer
+,,,,,,,,,,Dom Dwyer
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,Y,FW,64,0,0,0,0,3,1,0,0,14,13,1,0,0,0.4,0.4,0.0,1,0,5,5,100.0,0,7,0,0,0,Match Report,Dom Dwyer
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,FW,11,0,0,0,0,0,0,0,0,4,1,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0,Match Report,Dom Dwyer
+,,,,,,,,,,Dom Dwyer
+Sat,MLS,Regular Season,Home,W 4–1,Atlanta Utd,Chicago Fire,N,"On matchday squad, but did not play",Match Report,Dom Dwyer
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,FW,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report,Dom Dwyer
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,RW,17,1,0,0,0,1,1,0,0,5,0,0,0,0,0.8,0.8,0.0,0,0,1,2,50.0,0,3,0,0,0,Match Report,Dom Dwyer
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,N,"FW,WB",23,1,0,0,0,2,1,1,0,9,1,0,0,1,0.4,0.4,0.0,1,1,2,5,40.0,2,4,0,0,0,Match Report,Dom Dwyer
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,N,LW,16,0,0,0,0,0,0,0,0,9,0,0,1,0,0.0,0.0,0.0,0,0,5,6,83.3,0,8,1,0,0,Match Report,Dom Dwyer
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,N,AM,10,0,0,0,0,0,0,0,0,9,2,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,2,5,1,0,0,Match Report,Dom Dwyer
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,N,"On matchday squad, but did not play",Match Report,Dom Dwyer
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,N,FW,7,1,0,0,0,1,1,0,0,3,3,1,0,0,0.2,0.2,0.0,0,0,0,0,,0,1,0,0,0,Match Report,Dom Dwyer
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,"On matchday squad, but did not play",Match Report,Dom Dwyer
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,N,"On matchday squad, but did not play",Match Report,Dom Dwyer
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,FW,17,0,0,0,0,2,1,0,0,7,4,0,0,0,0.1,0.1,0.4,2,0,4,4,100.0,0,3,0,0,0,Match Report,Dom Dwyer
+Sun,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Charlotte FC,N,RW,8,1,0,0,0,2,1,0,0,13,2,2,0,1,0.2,0.2,0.0,0,0,6,7,85.7,1,8,4,1,2,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Home,D 3–3,Atlanta Utd,CF Montréal,N,"WB,RW",45,0,0,0,0,0,0,0,0,34,13,2,1,0,0.0,0.0,0.1,2,0,23,28,82.1,0,33,4,3,4,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,Y,RW,73,0,0,0,0,1,0,0,0,29,16,0,0,1,0.1,0.1,0.1,1,0,17,20,85.0,3,27,3,0,1,Match Report,Jake Mulraney
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,RW,31,0,0,0,0,0,0,0,0,9,11,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,6,1,0,1,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Home,D 0–0,Atlanta Utd,FC Cincinnati,N,DM,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,1,0,0,Match Report,Jake Mulraney
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,LB,15,0,0,0,0,0,0,0,0,15,4,1,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,11,2,0,1,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,N,LM,11,0,0,0,0,0,0,0,0,8,1,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,7,0,0,1,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Away,L 1–4,Orlando City,CF Montréal,N,LW,34,0,0,0,0,0,0,0,0,16,9,2,0,1,0.0,0.0,0.0,0,0,8,12,66.7,1,10,2,0,0,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Away,W 1–0,Orlando City,Toronto FC,N,LW,26,0,0,0,0,0,0,0,0,12,4,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,1,9,0,0,0,Match Report,Jake Mulraney
+Sun,MLS,Regular Season,Away,D 2–2,Orlando City,Austin FC,N,WB,19,0,0,0,0,1,0,0,0,2,0,0,1,0,0.1,0.1,0.0,1,0,0,0,,0,1,0,0,0,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Home,L 1–3,Orlando City,FC Dallas,Y,LW,56,0,0,0,0,1,0,0,0,30,8,1,0,0,0.0,0.0,0.0,3,0,18,22,81.8,1,24,5,0,1,Match Report,Jake Mulraney
+Wed,MLS,Regular Season,Away,D 1–1,Orlando City,New England,Y,RW,71,0,0,0,0,1,0,1,0,40,9,1,0,1,0.0,0.0,0.2,2,0,24,30,80.0,2,35,2,0,1,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Home,W 2–1,Orlando City,Houston Dynamo,Y,"LW,RW",64,0,0,0,0,4,0,0,0,26,5,0,0,0,0.2,0.2,0.0,1,0,13,20,65.0,0,16,4,1,1,Match Report,Jake Mulraney
+Fri,MLS,Regular Season,Away,L 0–1,Orlando City,FC Cincinnati,Y,LW,45,0,0,0,0,1,1,0,0,28,9,3,0,0,0.1,0.1,0.0,0,0,14,19,73.7,2,18,2,0,0,Match Report,Jake Mulraney
+Mon,MLS,Regular Season,Home,L 3–5,Orlando City,D.C. United,Y,WB,45,0,0,0,0,1,0,0,0,28,7,2,1,2,0.1,0.1,0.0,0,0,15,18,83.3,1,19,1,0,1,Match Report,Jake Mulraney
+Sat,MLS,Regular Season,Home,W 1–0,Orlando City,Inter Miami,N,LM,21,0,0,0,0,0,0,0,0,11,4,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,9,2,0,0,Match Report,Jake Mulraney
+Wed,MLS,Regular Season,Away,D 1–1,Orlando City,Colorado Rapids,N,"On matchday squad, but did not play",Match Report,Jake Mulraney
+Sun,MLS,Regular Season,Away,D 1–1,Orlando City,Atlanta Utd,Y,LM,55,0,0,0,0,0,0,0,0,20,23,3,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,12,2,0,1,Match Report,Jake Mulraney
+Thu,Friendlies (M),Friendlies (M),Neutral,L 0–3,ss South Sudan,uz Uzbekistan,Y,FW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,,Match Report,Machop Malual
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Machop Malual
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,N,RB,9,0,0,0,0,0,0,0,0,11,1,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,6,2,0,2,Match Report,Machop Malual
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,N,"On matchday squad, but did not play",Match Report,Machop Malual
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,N,RB,17,0,0,0,0,0,0,0,0,15,3,1,1,0,0.0,0.0,0.0,0,0,11,13,84.6,2,8,0,0,0,Match Report,Machop Malual
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,RW,24,0,0,0,0,1,0,0,0,13,3,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,2,8,2,0,0,Match Report,Machop Malual
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,N,WB,14,0,0,0,0,1,0,0,0,14,4,2,2,0,0.1,0.1,0.0,0,0,5,7,71.4,1,6,1,0,0,Match Report,Machop Malual
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,"On matchday squad, but did not play",Match Report,Machop Malual
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Sat,USL Champ,Regular Season,Away,L 0–1,Atlanta 2,Louisville City,Y,CB,90,0,0,0,0,0,0,0,0,,,,4,,,,,,,,,,,,,,,Match Report,Mikey Ambrose
+,,,,,,,,,,Mikey Ambrose
+Wed,USL Champ,Regular Season,Home,L 0–3,Atlanta 2,Tampa Bay,Y,CB,90,0,0,0,0,0,0,0,0,,,,2,,,,,,,,,,,,,,,Match Report,Mikey Ambrose
+Sun,USL Champ,Regular Season,Home,W 4–1,Atlanta 2,Charleston,Y,LB,90,0,1,0,0,1,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Mikey Ambrose
+Sat,USL Champ,Regular Season,Away,W 2–1,Atlanta 2,Hartford,Y,CB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Mikey Ambrose
+Sat,USL Champ,Regular Season,Home,L 0–4,Atlanta 2,Detroit City,Y,CB,90,0,0,0,0,0,0,1,0,,,,3,,,,,,,,,,,,,,,Match Report,Mikey Ambrose
+Sat,USL Champ,Regular Season,Away,L 1–2,Atlanta 2,Indy Eleven,Y,LB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Mikey Ambrose
+Sat,USL Champ,Regular Season,Away,L 0–4,Atlanta 2,Pittsburgh,Y,LM,90,0,0,0,0,2,1,0,0,,,,2,,,,,,,,,,,,,,,Match Report,Mikey Ambrose
+Wed,USL Champ,Regular Season,Home,L 0–4,Atlanta 2,Louisville City,Y,LB,90,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Mikey Ambrose
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Sat,MLS,Regular Season,Home,L 1–2,Atlanta Utd,Columbus Crew,N,LB,40,0,0,0,0,1,0,0,0,32,5,1,0,1,0.0,0.0,0.0,0,0,25,28,89.3,1,21,4,0,0,Match Report,Mikey Ambrose
+Sun,MLS,Regular Season,Home,W 2–0,Atlanta Utd,Inter Miami,N,LB,6,0,0,0,0,0,0,0,0,8,2,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,6,0,0,0,Match Report,Mikey Ambrose
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Toronto FC,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Thu,MLS,Regular Season,Away,L 1–2,Atlanta Utd,NY Red Bulls,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Sun,MLS,Regular Season,Away,D 2–2,Atlanta Utd,NYCFC,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,"On matchday squad, but did not play",Match Report,Mikey Ambrose
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,"On matchday squad, but did not play",Match Report,Jackson Conway
+Sat,MLS,Regular Season,Away,L 0–3,Atlanta Utd,Colorado Rapids,N,"On matchday squad, but did not play",Match Report,Jackson Conway
+Sat,USL Champ,Regular Season,Away,L 0–1,Atlanta 2,Louisville City,Y,FW,70,0,0,0,0,3,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Wed,USL Champ,Regular Season,Home,L 0–1,Atlanta 2,Red Bulls II,Y,FW,66,0,0,0,0,0,0,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Wed,USL Champ,Regular Season,Home,L 0–3,Atlanta 2,Tampa Bay,Y,FW,73,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sun,USL Champ,Regular Season,Home,W 4–1,Atlanta 2,Charleston,Y,FW,90,3,1,0,0,8,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sat,MLS,Regular Season,Away,W 1–0,Atlanta Utd,D.C. United,N,FW,29,0,0,0,0,2,0,1,0,7,7,1,0,0,0.4,0.4,0.0,2,0,2,2,100.0,0,3,1,0,0,Match Report,Jackson Conway
+Sun,MLS,Regular Season,Away,L 0–1,Atlanta Utd,Charlotte FC,N,"On matchday squad, but did not play",Match Report,Jackson Conway
+Sat,USL Champ,Regular Season,Away,L 1–2,Atlanta 2,Indy Eleven,Y,FW,90,1,0,0,0,2,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,DM,1,0,0,0,0,0,0,0,0,4,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,4,1,0,0,Match Report,Jackson Conway
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,N,RM,6,0,0,0,0,1,0,0,0,2,0,0,0,0,0.2,0.2,0.0,0,0,0,0,,0,0,0,0,0,Match Report,Jackson Conway
+,,,,,,,,,,Jackson Conway
+Sun,MLS,Regular Season,Home,D 2–2,Atlanta Utd,New England,N,"On matchday squad, but did not play",Match Report,Jackson Conway
+Sat,MLS,Regular Season,Away,D 2–2,Atlanta Utd,Nashville,N,"On matchday squad, but did not play",Match Report,Jackson Conway
+Fri,USL Champ,Regular Season,Home,D 0–0,Atlanta 2,Orange County,Y,FW,90,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Wed,USL Champ,Regular Season,Home,L 3–4,Atlanta 2,RGV Toros,Y,FW,89,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+,,,,,,,,,,Jackson Conway
+Sat,USL Champ,Regular Season,Home,W 2–0,Atlanta 2,Loudoun Utd,Y,FW,90,0,0,0,0,3,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sat,USL Champ,Regular Season,Home,L 0–3,Atlanta 2,Hartford,Y,FW,82,0,0,0,0,4,2,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sat,USL Champ,Regular Season,Away,L 1–3,Atlanta 2,Oakland Roots SC,Y,FW,69,0,0,0,0,1,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Wed,USL Champ,Regular Season,Away,W 4–3,Atlanta 2,Charleston,Y,FW,74,2,0,0,0,6,4,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sat,USL Champ,Regular Season,Home,D 2–2,Atlanta 2,El Paso,Y,FW,71,0,0,0,0,3,1,1,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Wed,USL Champ,Regular Season,Home,D 3–3,Atlanta 2,Birmingham,Y,FW,90,0,0,0,0,4,1,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sat,USL Champ,Regular Season,Away,L 1–2,Atlanta 2,FC Tulsa,Y,FW,90,0,0,0,0,4,1,0,0,,,,1,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sat,USL Champ,Regular Season,Away,L 0–5,Atlanta 2,San Antonio,Y,FW,61,0,0,0,0,0,0,0,0,,,,0,,,,,,,,,,,,,,,Match Report,Jackson Conway
+Sun,MLS,Regular Season,Home,W 3–1,Atlanta Utd,Sporting KC,N,"On matchday squad, but did not play",Match Report,Dylan Castanheira
+Wed,USL Champ,Regular Season,Home,L 0–3,Atlanta 2,Tampa Bay,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Dylan Castanheira
+Sun,USL Champ,Regular Season,Home,W 4–1,Atlanta 2,Charleston,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Match Report,Dylan Castanheira
+Sat,USL Champ,Regular Season,Away,L 0–1,Atlanta 2,Louisville City,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,1,2,0,,,Match Report,Noah Cobb
+Wed,USL Champ,Regular Season,Home,L 0–1,Atlanta 2,Red Bulls II,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,,,Match Report,Noah Cobb
+Wed,USL Champ,Regular Season,Home,L 0–3,Atlanta 2,Tampa Bay,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,,,Match Report,Noah Cobb
+Sun,USL Champ,Regular Season,Home,W 4–1,Atlanta 2,Charleston,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,,Match Report,Noah Cobb
+Sat,USL Champ,Regular Season,Away,W 2–1,Atlanta 2,Hartford,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,,Match Report,Noah Cobb
+Sat,MLS,Regular Season,Away,L 1–2,Atlanta Utd,CF Montréal,N,"On matchday squad, but did not play",Match Report,Noah Cobb
+Wed,USL Champ,Regular Season,Home,L 0–4,Atlanta 2,Louisville City,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,,,Match Report,Noah Cobb
+Sat,USL Champ,Regular Season,Away,L 1–3,Atlanta 2,Detroit City,Y,CB,90,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,,,Match Report,Noah Cobb
+Fri,USL Champ,Regular Season,Home,D 0–0,Atlanta 2,Orange County,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,,,Match Report,Noah Cobb
+,,,,,,,,,,Noah Cobb
+Sat,USL Champ,Regular Season,Home,W 2–0,Atlanta 2,Loudoun Utd,N,,27,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,,Match Report,Noah Cobb
+Sat,USL Champ,Regular Season,Home,L 0–3,Atlanta 2,Hartford,Y,CB,90,0,0,0,0,0,0,0,0,0,1,0,0,2,2,0,,,Match Report,Noah Cobb
+Sat,USL Champ,Regular Season,Away,L 1–3,Atlanta 2,Oakland Roots SC,Y,CB,90,0,0,0,0,0,0,0,0,1,4,0,0,1,2,0,,,Match Report,Noah Cobb
+Wed,USL Champ,Regular Season,Away,W 4–3,Atlanta 2,Charleston,Y,CB,90,0,0,0,0,0,0,1,0,3,0,0,0,0,3,0,,,Match Report,Noah Cobb
+Sat,USL Champ,Regular Season,Home,D 2–2,Atlanta 2,El Paso,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,,,Match Report,Noah Cobb
+Wed,USL Champ,Regular Season,Home,D 3–3,Atlanta 2,Birmingham,Y,CB,90,0,0,0,0,0,0,0,0,2,1,0,0,2,2,0,,,Match Report,Noah Cobb
+Sat,USL Champ,Regular Season,Away,L 1–2,Atlanta 2,FC Tulsa,Y,CB,87,0,0,0,0,0,0,2,1,2,0,0,0,2,2,0,,,Match Report,Noah Cobb
+Sat,USL Champ,Regular Season,Away,L 0–1,Atlanta 2,Louisville City,N,"On matchday squad, but did not play",Match Report,Justin Garces
+Wed,USL Champ,Regular Season,Home,L 0–1,Atlanta 2,Red Bulls II,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Justin Garces
+Wed,USL Champ,Regular Season,Home,L 0–3,Atlanta 2,Tampa Bay,N,"On matchday squad, but did not play",Match Report,Justin Garces
+Sun,USL Champ,Regular Season,Home,W 4–1,Atlanta 2,Charleston,N,"On matchday squad, but did not play",Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Away,W 2–1,Atlanta 2,Hartford,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Home,L 0–4,Atlanta 2,Detroit City,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Away,L 1–2,Atlanta 2,Indy Eleven,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Justin Garces
+Sun,MLS,Regular Season,Away,L 1–2,Atlanta Utd,Inter Miami,N,"On matchday squad, but did not play",Match Report,Justin Garces
+Wed,USL Champ,Regular Season,Home,L 0–4,Atlanta 2,Louisville City,N,"On matchday squad, but did not play",Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Away,L 1–3,Atlanta 2,Detroit City,N,"On matchday squad, but did not play",Match Report,Justin Garces
+,,,,,,,,,,Justin Garces
+Sat,USL Champ,Regular Season,Home,W 2–0,Atlanta 2,Loudoun Utd,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Home,L 0–3,Atlanta 2,Hartford,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,,Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Away,L 1–3,Atlanta 2,Oakland Roots SC,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Justin Garces
+Wed,USL Champ,Regular Season,Away,W 4–3,Atlanta 2,Charleston,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Home,D 2–2,Atlanta 2,El Paso,N,"On matchday squad, but did not play",Match Report,Justin Garces
+Wed,USL Champ,Regular Season,Home,D 3–3,Atlanta 2,Birmingham,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Away,L 1–2,Atlanta 2,FC Tulsa,N,"On matchday squad, but did not play",Match Report,Justin Garces
+Sat,USL Champ,Regular Season,Away,L 0–5,Atlanta 2,San Antonio,N,"On matchday squad, but did not play",Match Report,Justin Garces
+Sun,Liga MX,Clausura 2022 Regular Season,Home,W 3–0,Guadalajara,Mazatlán,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Sun,Liga MX,Clausura 2022 Regular Season,Away,L 1–2,Guadalajara,Pachuca,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Home,D 1–1,Guadalajara,Querétaro,Y,GK,90,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Wed,Liga MX,Clausura 2022 Regular Season,Away,W 3–1,Guadalajara,FC Juárez,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Home,L 1–3,Guadalajara,UANL,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Away,L 1–2,Guadalajara,León,Y,GK,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Home,L 2–3,Guadalajara,Puebla,Y,GK,90,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Wed,Liga MX,Clausura 2022 Regular Season,Away,D 2–2,Guadalajara,Atlético,Y,GK,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Home,W 1–0,Guadalajara,Santos,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Home,D 0–0,Guadalajara,América,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Sun,Liga MX,Clausura 2022 Regular Season,Away,D 1–1,Guadalajara,Atlas,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Away,D 1–1,Guadalajara,Toluca,Y,GK,90,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Wed,Liga MX,Clausura 2022 Regular Season,Home,L 1–3,Guadalajara,Monterrey,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Away,W 1–0,Guadalajara,Cruz Azul,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Tue,Liga MX,Clausura 2022 Regular Season,Home,W 2–1,Guadalajara,Tijuana,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Sat,Liga MX,Clausura 2022 Regular Season,Home,W 3–1,Guadalajara,UNAM,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Fri,Liga MX,Clausura 2022 Regular Season,Away,W 1–0,Guadalajara,Necaxa,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+,,,,,,,,,,Raúl Gudiño
+Thu,Liga MX,Quarter-finals,Home,L 1–2,Guadalajara,Atlas,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Sun,Liga MX,Quarter-finals,Away,D 1–1,Guadalajara,Atlas,N,,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,Match Report,Raúl Gudiño
+Sat,MLS,Regular Season,Home,L 0–3,Atlanta Utd,Austin FC,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Wed,MLS,Regular Season,Home,W 2–1,Atlanta Utd,Real Salt Lake,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
+Sun,MLS,Regular Season,Home,D 1–1,Atlanta Utd,Orlando City,N,"On matchday squad, but did not play",Match Report,Raúl Gudiño
