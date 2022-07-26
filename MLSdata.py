@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 
 def get_urls(leagueurl):#break this up ito multiple functions
     output=[]
-    headers=['Date','Day','Comp','Round','Venue','Result','Squad','Opponent','Start','Pos','Min','Gls','Ast','PK','PKatt','Shots','SoT','Yellows','Reds','Touches','Press','Tackles','Interceptions','Blocks','xG','npxG','xA','SCA','GCA','Cmp','Att','Cmp%','Carries','Prog','Succ','Att','Report','Name']
-    with open('MLSdata.csv','w',newline="") as f:
+    headers=['Day','Comp','Round','Venue','Result','Squad','Opponent','Start','Pos','Min','Gls','Ast','PK','PKatt','Shots','SoT','Yellows','Reds','Touches','Press','Tackles','Interceptions','Blocks','xG','npxG','xA','SCA','GCA','Cmp','Att','Cmp%','ProgPass','Carries','Prog','Succ','Att','Report','Name']
+    with open('MLSdata.csv','a',newline="",encoding="UTF-8") as f:
         write=csv.writer(f)
         write.writerow(headers)
         while (True):
@@ -30,12 +30,14 @@ def get_urls(leagueurl):#break this up ito multiple functions
         teamcount=0
         for i in metric_names:
             teamcount+=1
+            if teamcount<17:
+                continue
             print ("starting team", teamcount, "of ", len(metric_names))
             link=(str(i).split('"')[1])
             while (True):
                 page = requests.get(("http://fbref.com" + link))
                 if (page.status_code != 429):
-                    print("navigating to league page")
+                    print("navigating to team page")
                     break
                 else:
                     time.sleep(60)
@@ -56,7 +58,7 @@ def get_player_data(x):
     while (True):
             page = requests.get(url)
             if (page.status_code!=429):
-                print ("printing player to file")
+                print ("status code=",page.status_code," printing player to file")
                 break
             else:
                 time.sleep(60)
