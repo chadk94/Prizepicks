@@ -19,7 +19,7 @@ def get_urls(leagueurl):#break this up ito multiple functions
                     print ("navigating to league page")
                     break
                 else:
-                    time.sleep(60)
+                    time.sleep(15)
                 print("trying again")
         soup=BeautifulSoup(page.content,'html.parser')
         time.sleep(.5)
@@ -30,8 +30,6 @@ def get_urls(leagueurl):#break this up ito multiple functions
         teamcount=0
         for i in metric_names:
             teamcount+=1
-            if teamcount<17:
-                continue
             print ("starting team", teamcount, "of ", len(metric_names))
             link=(str(i).split('"')[1])
             while (True):
@@ -40,7 +38,7 @@ def get_urls(leagueurl):#break this up ito multiple functions
                     print("navigating to team page")
                     break
                 else:
-                    time.sleep(60)
+                    time.sleep(15)
                 print("trying again")
             soup = BeautifulSoup(page.content, 'html.parser')
             for row in soup.findAll('table')[0].tbody.findAll('tr'):
@@ -61,7 +59,7 @@ def get_player_data(x):
                 print ("status code=",page.status_code," printing player to file")
                 break
             else:
-                time.sleep(60)
+                time.sleep(15)
             print("trying again")
     soup = BeautifulSoup(page.content, 'html.parser')
     name = [element.text for element in soup.find_all("span")]

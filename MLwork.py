@@ -2,11 +2,14 @@ import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import Dropout
+from keras import backend as K
+from keras import metrics as M
 from scikeras.wrappers import KerasClassifier, KerasRegressor
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import KFold
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler
+import matplotlib.pyplot as plt
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.preprocessing import OneHotEncoder
@@ -18,66 +21,62 @@ from sklearn.preprocessing import StandardScaler, PolynomialFeatures
 from sklearn.linear_model import LinearRegression, LassoCV, Lasso, RidgeCV, Ridge, ElasticNetCV, ElasticNet, BayesianRidge, LogisticRegression, SGDRegressor
 import pandas as pd
 from sklearn.metrics import mean_squared_error, mean_absolute_error
+import pickle
+Inputs=43
+def neuralnet(x,y):
+    model = Sequential(name="DeepNN", layers=[
+        Dense(name="h1", input_dim=Inputs,
+                     units=int(round((Inputs + 1) / 2)),
+                     activation='relu'),
+        Dropout(name="drop1", rate=0.2),
 
-Inputs=1069
-def simplemodel():
-    model=Sequential()
-    model.add(Dense(20,input_dim=Inputs,kernel_initializer='normal',activation='relu'))
-    model.add(Dense(1,kernel_initializer='normal'))
-    model.compile(loss='mean_squared_error',optimizer='adam')
+        Dense(name="h2", units=int(round((Inputs + 1) / 4)),
+                     activation='relu'),
+        Dropout(name="drop2", rate=0.2),
+
+        Dense(name="output", units=1, activation='sigmoid')
+    ])
+    model.summary()
     return model
+def R2(y, y_hat):
+    ss_res =  K.sum(K.square(y - y_hat))
+    ss_tot = K.sum(K.square(y - K.mean(y)))
+    return ( 1 - ss_res/(ss_tot + K.epsilon()) )
 
-def multiplelayers():
-    model=Sequential()
-    model.add(Dense(20,input_dim=Inputs,kernel_initializer='normal',activation='relu'))
-    model.add(Dropout(.5))#any useless data? avoid overfitting
-    model.add(Dense(10,kernel_initializer='normal',activation='relu'))
-    model.add(Dropout(.5))
-    model.add(Dense(5,kernel_initializer='normal',activation='relu'))
-    model.add(Dense(1,kernel_initializer='normal'))
-    model.compile(loss='mean_squared_error',optimizer='adam')
-    return model
-
-def widelayer():
-    model = Sequential()
-    model.add(Dense(40, input_dim=Inputs, kernel_initializer='normal', activation='relu'))
-    model.add(Dense(1,kernel_initializer='normal'))
-    model.compile(loss='mean_squared_error',optimizer='adam')
-    return model
-
-def evaluate(x,y,modeltype,playername,opp,home):
-    estimators=[]
-    estimators.append(('standardize',StandardScaler())) #scale
-    estimators.append(('mlp', KerasRegressor(build_fn=modeltype, epochs=100, batch_size=5, verbose=0)))
-    pipeline=Pipeline(estimators)
-    kfold = KFold(n_splits=10)
-    results = cross_val_score(pipeline, x, y, cv=kfold)
-    pipeline.fit(x, y)
-    print("Baseline: %.2f (%.2f) MSE" % (results.mean(), results.std()))
-    gamedata=[playername,opp,home]
-    print("Projected shots is ", pipeline.predict(gamedata))
-
-def playerprojection(data,playername,opponent, home,modeltype):
-    data=data.dropna()
-    y = data['Shots']
-    x = data.drop(['Shots'], axis=1)
+def playerprojection(data):
+    x, y = data.drop(columns=['Name', 'Shots']), data.Shots
     print("variance in shots is", np.var(y))
-    basic(x, y)#, modeltype,playername,opponent,home)
-def basic(x,y):
-    datasets=train_test_split(x,y,test_size=.2)
-    train_data, test_data, train_labels, test_labels = datasets
-    scaler=StandardScaler()
-    scaler.fit(train_data)
-    train_data=scaler.transform(train_data)
-    test_data=scaler.transform(test_data)
-    mlp=MLPClassifier(hidden_layer_sizes=(10,5),max_iter=1000)
-    mlp.fit(train_data,train_labels)
-    predictions_train=mlp.predict(train_data)
-    print(accuracy_score(predictions_train,train_labels))
-    predictions_test=mlp.predict(test_data)
-    print(accuracy_score(predictions_test,test_labels))
-    confusion_matrix(predictions_train, train_labels)
-    print(classification_report(predictions_test, test_labels))
+    print (x.columns)
+    model= neuralnet(x, y)
+    model.compile(optimizer='adam', loss='mean_absolute_error',
+                  metrics=M.mean_squared_error)
+    training = model.fit(x=x, y=y, batch_size=32, epochs=100, shuffle=True, verbose=0, validation_split=0.3)
+    metrics = [k for k in training.history.keys() if ("loss" not in k) and ("val" not in k)]
+    fig, ax = plt.subplots(nrows=1, ncols=2, sharey=True, figsize=(15, 3))
+
+    ## training
+    ax[0].set(title="Training")
+    ax11 = ax[0].twinx()
+    ax[0].plot(training.history['loss'], color='black')
+    ax[0].set_xlabel('Epochs')
+    ax[0].set_ylabel('Loss', color='black')
+    for metric in metrics:
+        ax11.plot(training.history[metric], label=metric)
+        ax11.set_ylabel("Score", color='steelblue')
+    ax11.legend()
+
+    ## validation
+    ax[1].set(title="Validation")
+    ax22 = ax[1].twinx()
+    ax[1].plot(training.history['val_loss'], color='black')
+    ax[1].set_xlabel('Epochs')
+    ax[1].set_ylabel('Loss', color='black')
+    for metric in metrics:
+        ax22.plot(training.history['val_' + metric], label=metric)
+        ax22.set_ylabel("Score", color="steelblue")
+ #TODO IMPROVE PLOTTING/DISPLAY
+    plt.show()
+
 def propbet(data):
     scaler = StandardScaler()
 
