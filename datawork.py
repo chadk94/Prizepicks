@@ -33,7 +33,6 @@ def clean(data):
     cleaned=cleaned.dropna()
     cleaned.index.names=['Name']
     test=cleaned
-    print (cleaned.columns)
     return test
     #return cleaned
 #todo run on dummies for plyer venue day squad opponent start and rolling values.
