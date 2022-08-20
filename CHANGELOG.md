@@ -2,6 +2,9 @@
 
 ## CHANGELOG
 
+### v0.2.2 - Chad Kalil (8/19/2022)
+- updating README
+
 ### v0.2.1 - Nate Haddad (8/19/2022)
 - fix typo
 
