@@ -2,6 +2,9 @@
 
 ## CHANGELOG
 
+### v0.3.0 - Nate Haddad (8/22/2022)
+- update `modeling` module
+
 ### v0.2.2 - Chad Kalil (8/19/2022)
 - updating README
 

@@ -100,8 +100,7 @@ if __name__ == '__main__':
     lines = prizepickslines.getLines('SOCCER', "Shots")
     # MLSdata.get_urls("https://fbref.com/en/comps/22/Major-League-Soccer-Stats")  #RUN THIS ONCE
     data = (datawork.dataload(op.join('data', 'MLSdata.csv')))
-    clean = datawork.clean(data)
-    # model=MLwork.playerprojection(clean) #RUN WHEN YOU NEED TO GENERATE A MODEL
+   
     for line in lines.iterrows():
         linetoprojection(line, MLS, data)
 
